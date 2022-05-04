@@ -12,14 +12,13 @@
 
 - HTML
 - CSS
+- Bootstrap
 
-## Author
+## Authors
 
 👤 **Okine Kingsley**
+👤 **Robertson Arthur**
 
-- GitHub: [@githubhandle](https://github.com/killy10o10)
-- Twitter: [@twitterhandle](https://twitter.com/Quami_Killy)
-- Instagram: [Instagram](https://www.instagram.com/quami_killy/)
 
 ## 🤝 Contributing
 
