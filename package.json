@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "Microverse Killy Robertson Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killy10o10/bootstrap-portfolio.git"
+  },
+  "keywords": [
+    "Microverse",
+    "Quami_Killy",
+    "Bootstrap",
+    "pair-programming"
+  ],
+  "author": "Quami_Killy Robertson_Arthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killy10o10/bootstrap-portfolio/issues"
+  },
+  "homepage": "https://github.com/killy10o10/bootstrap-portfolio#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
