@@ -21,11 +21,15 @@ button {
   flex-wrap: nowrap;
 }
 
-.sea-green {
+.dark-blue {
   color: #172b4d;
 }
 
-.text-color2 {
+.grey-green {
+  background-color: #ebf0ee;
+}
+
+.sea-green {
   color: #36b37f;
 }
 
